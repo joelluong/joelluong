@@ -18,7 +18,7 @@
 
 - 🚀 I’m currently studying Master of Data Science at Swinburne University, Australia. 
 
-- 💻 I also cooperate with Ph.D. students to research and improve performance on program analysis and language model for API recommendations for Java IDE at Intelligent Software Engineering Laboratory, UET-VNU
+- 💻 ...
 
 - ⚡ In my free time, I love ~~solving problems on Leetcode~~, learning new technology and building some fun projects.
 
