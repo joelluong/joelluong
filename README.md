@@ -1,0 +1,29 @@
+## Hi, I'm Joel @Civica 👋
+
+<div id="header">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="134"/>
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="102"/>
+</div>
+
+---
+
+<div >
+  <img src="https://github-readme-stats.vercel.app/api?username=joelluong&show_icons=true&hide=issues&count_private=true&theme=react&bg_color=20232A" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?&username=joelluong&hide=css,shell&langs_count=8&layout=compact&exclude_repo=quatangem,JavaFx_Dictionary,UETCodeCamp,HMI-frontend,DSA_20020138_coursera,DSA_20020138_PhamCongManhHung&theme=react&bg_color=20232A" height="180">
+</div>
+  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelluong&hide=shell,css&langs_count=8&exclude_repo=JavaFx_Dictionary,UETCodeCamp&layout=compact&theme=react&bg_color=20232A"> -->
+
+### ✍️ About me:
+
+- 🚀 I’m currently studying Master of Data Science at Swinburne University, Australia. 
+
+- 💻 I also cooperate with Ph.D. students to research and improve performance on program analysis and language model for API recommendations for Java IDE at Intelligent Software Engineering Laboratory, UET-VNU
+
+- ⚡ In my free time, I love ~~solving problems on Leetcode~~, learning new technology and building some fun projects.
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joelluong/) or Email: [joel.luong@outlook.com](mailto:joel.luong@outlook.com)
+
+### Certificates:
+- 
+<!-- ### Related link : -->
