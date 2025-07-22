@@ -22,7 +22,7 @@
 
 - ⚡ In my free time, I love ~~solving problems on Leetcode~~, learning new technology and building some fun projects.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joelluong/) or Email: [joel.luong@outlook.com](mailto:joel.luong@outlook.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joel-luong/) or Email: [joel.luong@outlook.com](mailto:joel.luong@outlook.com)
 
 ### Certificates:
 - 
