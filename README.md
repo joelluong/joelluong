@@ -1,29 +1,55 @@
-## Hi, I'm Joel @Civica 👋
+## Hey there 👋 I'm Joel Luong
 
 <div id="header">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="134"/>
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="102"/>
 </div>
 
+🎓 Master of Data Science candidate at Swinburne University  
+💻 Software Developer at Civica, working on Daymap LMS  
+🌏 Based in Melbourne, Australia  
+✉️ Reach me at: [joel_luong@outlook.com](mailto:joel_luong@outlook.com)
+
 ---
 
-<div >
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=joelluong&show_icons=true&hide=issues&count_private=true&theme=react&bg_color=20232A" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?&username=joelluong&hide=css,shell&langs_count=8&layout=compact&exclude_repo=quatangem,JavaFx_Dictionary,UETCodeCamp,HMI-frontend,DSA_20020138_coursera,DSA_20020138_PhamCongManhHung&theme=react&bg_color=20232A" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelluong&hide=shell,css&langs_count=8&layout=compact&theme=react&bg_color=20232A" height="180">
 </div>
-  
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelluong&hide=shell,css&langs_count=8&exclude_repo=JavaFx_Dictionary,UETCodeCamp&layout=compact&theme=react&bg_color=20232A"> -->
 
-### ✍️ About me:
+---
 
-- 🚀 I’m currently studying Master of Data Science at Swinburne University, Australia. 
+### ✍️ A bit about me
 
-- 💻 ...
+- 🧠 Full-stack developer with 5+ years of experience using **.NET**, **React**, and **SQL Server**
+- 🚀 Passionate about education tech — improving tools that help real teachers and students
+- 🌩️ Hands-on with **Azure**, **AWS**, and **Oracle Cloud**, with a growing interest in scalable cloud infrastructure
+- 📊 Learning advanced data analytics and ML through my **Master's coursework**
+- 🛠️ I enjoy building clean, intuitive apps and taking ownership from idea to deployment
 
-- ⚡ In my free time, I love ~~solving problems on Leetcode~~, learning new technology and building some fun projects.
+---
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joel-luong/) or Email: [joel.luong@outlook.com](mailto:joel.luong@outlook.com)
+### 🔧 Projects I'm proud of
 
-### Certificates:
-- 
-<!-- ### Related link : -->
+- 📱 **[Sport App TDP](https://github.com/joelluong/sport-app-tdp)** – A mobile app for soccer fans to get real-time updates, match stats, and vote in live polls. Built using React Native and Firebase.
+
+- 🌐 **[Weather Station Tracker](https://github.com/joelluong/WeatherStation-Tracker-Node)** – A full-stack app that loads CSV data into MySQL using Node.js and displays weather stations on a Mapbox-powered frontend.
+
+---
+
+### 📫 How to connect with me
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joel-luong/)  
+📧 [joel_luong@outlook.com](mailto:joel_luong@outlook.com)
+
+---
+
+### 🏅 Recent Achievements
+
+- 🎓 Distinction in Introduction to Data Science – Swinburne University  
+- 🎓 High Distinction in Cloud Engineering – Hands-on with AWS, Azure, OCI  
+- 💼 Promoted to Team Lead at Loop Software before acquisition by Civica
+
+<!--
+### 🔗 Other links (Coming soon...)
+-->
