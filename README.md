@@ -21,8 +21,8 @@
 
 ### ✍️ A bit about me
 
-- 🧠 Full-stack developer with 5+ years of experience using **.NET**, **React**, and **SQL Server**
-- 🚀 Passionate about education tech — improving tools that help real teachers and students
+- 🧠 Software developer with 6+ years of experience using **.NET**, **React**, and **SQL Server**
+- 🚀 Passionate about education tech - improving tools that help real teachers and students
 - 🌩️ Hands-on with **Azure**, **AWS**, and **Oracle Cloud**, with a growing interest in scalable cloud infrastructure
 - 📊 Learning advanced data analytics and ML through my **Master's coursework**
 - 🛠️ I enjoy building clean, intuitive apps and taking ownership from idea to deployment
@@ -31,9 +31,9 @@
 
 ### 🔧 Projects I'm proud of
 
-- 📱 **[Sport App TDP](https://github.com/joelluong/sport-app-tdp)** – A mobile app for soccer fans to get real-time updates, match stats, and vote in live polls. Built using React Native and Firebase.
+- 📱 **[Sport App TDP](https://github.com/joelluong/sport-app-tdp)** - A mobile app for soccer fans to get real-time updates, match stats, and vote in live polls. Built using React Native and Firebase.
 
-- 🌐 **[Weather Station Tracker](https://github.com/joelluong/WeatherStation-Tracker-Node)** – A full-stack app that loads CSV data into MySQL using Node.js and displays weather stations on a Mapbox-powered frontend.
+- 🌐 **[Weather Station Tracker](https://github.com/joelluong/WeatherStation-Tracker-Node)** - A full-stack app that loads CSV data into MySQL using Node.js and displays weather stations on a Mapbox-powered frontend.
 
 ---
 
