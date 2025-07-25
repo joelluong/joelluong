@@ -5,11 +5,6 @@
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="102"/>
 </div>
 
-<div id="header">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="134"/>
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="102"/>
-</div>
-
 🎓 Master of Data Science candidate at Swinburne University  
 💻 Software Developer at Civica, working on Daymap LMS  
 🌏 Based in Melbourne, Australia  
