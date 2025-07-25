@@ -1,6 +1,4 @@
-## Hey there 👋 I'm Joel Luong
-
-<div id="header">
+v id="header">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="134"/>
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="102"/>
 </div>
@@ -24,7 +22,7 @@
 - 🧠 Software developer with 6+ years of experience using **.NET**, **React**, and **SQL Server**
 - 🚀 Passionate about education tech - improving tools that help real teachers and students
 - 🌩️ Hands-on with **Azure**, **AWS**, and **Oracle Cloud**, with a growing interest in scalable cloud infrastructure
-- 📊 Learning advanced data analytics and ML through my **Master's coursework**
+- 📊 Learning advanced Data Analytics and Machine Learning through my **Master's coursework**
 - 🛠️ I enjoy building clean, intuitive apps and taking ownership from idea to deployment
 
 ---
